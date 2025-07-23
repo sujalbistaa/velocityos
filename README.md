@@ -61,7 +61,7 @@ To get started, you will need an ARM-GCC toolchain. The project uses CMake for b
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/sujalbistaa/velocityos)
     cd velocityos
     ```
 
